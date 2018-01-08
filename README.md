@@ -2,7 +2,7 @@
 - 用到的技术栈
 - 数据库：mysql + NavicatPremium
 - 管理系统:  :node + express + vue2  + iview2 + axio + webpack2 +echarts
-- 小程序  ： 微信小程序api + ES6-Promise（目前不开源）
+- 小程序  ： 微信小程序api + ES6-Promise
 
 
 ## 前言 小程序(引流能力)+区块链(智能合约) ##
