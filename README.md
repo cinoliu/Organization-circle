@@ -12,7 +12,7 @@
 
 
 # 技术栈 #
-- [SCRM系统](https://github.com/cinoliu/Blockchain-SCRM):  :python + vue2 +echarts
+- [SCRM系统](https://github.com/cinoliu/Blockchain-SCRM):  Python/Node.js + vue2 +echarts
 - [小程序](https://github.com/cinoliu/Organization-circle)  ： 微信小程序api + ES6-Promise
 
 
