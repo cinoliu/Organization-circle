@@ -13,8 +13,8 @@
 
 # 技术栈 #
 - [SCRM系统](https://github.com/cinoliu/Blockchain-SCRM):  :python + vue2 +echarts
-- 小程序  ： 微信小程序api + ES6-Promise
-- 数据库：mysql 
+- [小程序](https://github.com/cinoliu/Organization-circle)  ： 微信小程序api + ES6-Promise
+
 
 
 ## 功能 ##
