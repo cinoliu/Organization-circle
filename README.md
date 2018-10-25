@@ -31,7 +31,6 @@
 ## 小程序 ##
 ![](https://raw.githubusercontent.com/cinoliu/Organization-circle/master/image/hudong.jpg) 
 
-![](https://raw.githubusercontent.com/cinoliu/Organization-circle/master/image/maitian.jpg) 
 
 ![](https://raw.githubusercontent.com/cinoliu/Organization-circle/master/image/wode.jpg) 
  
