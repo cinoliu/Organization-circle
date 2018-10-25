@@ -1,5 +1,5 @@
 
-## 前言  ##
+## 前言  ## 
 - 1.概念:基于区块链的功能性智能合约系统，实现场景数字 化、行为数字化、行为货币化，以每个用户为中心，创造 不同的生活场景、不同的社交圈为背景，形成的各种各样、 丰富多彩的用户行为，这些社交行为数据将按照设定的智能合约来产生价值，并且实现点对点的价值传递。
 
 - 2.特色:
@@ -12,7 +12,7 @@
 
 
 # 技术栈 #
-- [SCRM系统](https://github.com/cinoliu/Blockchain-SCRM):  Python/Node.js + vue2 +echarts
+- [SCRM系统](https://github.com/cinoliu/Blockchain-SCRM):  Node.js + vue2 +echarts
 - [小程序](https://github.com/cinoliu/Organization-circle)  ： 微信小程序api + ES6-Promise
 
 
@@ -21,8 +21,20 @@
 - [x] 建立组织
 - [x] 发起活动
 - [x] 打赏名片
-- [x] 小工具
-- [x] 智能合约
+- [x] 身份链
+- [x] 钱包
+- [x] 消息中心
+- [x] 名片夹
+- [x] 我的名片
+
+
+## 小程序 ##
+![](https://raw.githubusercontent.com/cinoliu/Organization-circle/master/image/hudong.jpg) 
+
+![](https://raw.githubusercontent.com/cinoliu/Organization-circle/master/image/maitian.jpg) 
+
+![](https://raw.githubusercontent.com/cinoliu/Organization-circle/master/image/wode.jpg) 
+ 
 
 ## 需求分析 ##
 
